@@ -1,0 +1,11 @@
+C++ es un lenguaje de programación multiparadigma, puesto que permite programar de manera imperativa, 
+orientada a objetos o genérica.
+Es un lenguaje nacido a principios de los años 80, pero que ha ido adquiriendo popularidad a finales
+de esa década y a principios de la década de los 90, puesto que ha sido el lenguaje favorito para la
+creación de aplicaciones de escritorio, ofimática y de juegos, tipos de aplicaciones muy populares en esa época.
+El estándar C++11 (liberado el año 2011) incorpora muchísimas características al lenguaje que 
+lo hacen mucho más interesante y sencillo para el desarrollo de aplicaciones genéricas, con un manejo más fácil
+de la memoria (a través de punteros inteligentes) y con una librería estándar más rica.
+Aunque sigue siendo el lenguaje predilecto para la creación de juegos de alta gama y aplicaciones de ofimática; su nicho
+de mercado está en el desarrollo de sistemas operativos, máquinas virtuales, compiladores, navegadores de internet y 
+cualquier aplicación donde el alto rendimiento sea prioritario.
