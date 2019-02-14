@@ -1,0 +1,9 @@
+1. Crear un repositorio 
+2. Crear un archivo de texto el cual quedara en el branch master (Archivo principal)
+3. Crear un branch donde se podran crear varias opciones de texto de un mismo codigo o archivo sin afectar al original 
+   (El que se encuentra en el branch master).
+4. Cuando se establesca que los archivos en la rama secundaria son mejores o mas utiles que el primero, se debe dar 
+   clic en Compare & pull requesty, después de verificar los cambios dar clic en “Create pull request”, luego clic en “Merge pull
+   request”, luego en “Confirm merge”. Como ya no se necesita más la rama, entonces se puede dar clic en “Delete branch” 
+   para borrar la rama secundaria.
+5. Verificar si los cambios se ejecutaron con exito. 
